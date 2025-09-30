@@ -3,7 +3,7 @@ this is a private repository that contains all the mods we use for our Minecraft
 
 ## how to use
 1. download the files using zip download when you press the drop code "Code" button
-2. extract the files into your Minecraft folder, and rename it "mods" (if you play on different versions, make sure you're pasting it in a new version folder everytime)
+2. copy the mods folder into your game directory's mods folder (if you play on different versions, make sure you're pasting it in the correct version's folder)
 3. launch the game with the compatible mods!
 
 ## how to join server
